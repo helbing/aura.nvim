@@ -22,5 +22,5 @@
 
 ```
 -- Using Packer
-use 'navarasu/onedark.nvim'
+use 'helbing/aura.nvim'
 ```
